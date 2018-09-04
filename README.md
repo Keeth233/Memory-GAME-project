@@ -1,4 +1,4 @@
-# Memory-GAME-project
+# MemoryCard-GAME-project
 My Memory Game Project.
 
 ## Link To My MEMORY CARD GAME
