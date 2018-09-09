@@ -2,14 +2,14 @@
 The Memory Card Game Project.
 
 ## How To Play
-``` Main Goal is to match all cards with minimum moves as possible```
-``` Game and Timer starts on first card clicked```
-``` 2 flipped pairs make a move```
+* Main Goal is to match all cards with minimum moves as possible.
+* Game and Timer starts on first card clicked.
+* 2 flipped pairs make a move.
 
-###Rating
-*With 12 moves or less = 5 Stars
-*With 13 to 17 moves = 3 Stars
-*More than 18 moves = 1 Star
+### Rating
+* With 12 moves or less = 5 Stars
+* With 13 to 17 moves = 3 Stars
+* More than 18 moves = 1 Star
 
 ## Link To The MEMORY CARD GAME
 
