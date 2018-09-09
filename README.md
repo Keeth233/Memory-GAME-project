@@ -8,7 +8,7 @@ The Memory Card Game Project.
 
 ### Rating
 * With 12 moves or less = 5 Stars
-* With 13 to 17 moves = 3 Stars
+* With 13 - 17 moves = 3 Stars
 * More than 18 moves = 1 Star
 
 ## Link To The MEMORY CARD GAME
