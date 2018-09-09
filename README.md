@@ -13,7 +13,7 @@ The Memory Card Game Project.
 
 ## Link To The MEMORY CARD GAME
 
-To view the Memory Card Game, click [here]( https://keeth233.github.io/Memory-GAME-project/)
+To play the Memory Card Game, click [here]( https://keeth233.github.io/Memory-GAME-project/)
 
 Have FUN! :smiley:
 
