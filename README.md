@@ -4,7 +4,8 @@ The Memory Card Game Project.
 ## How To Play
 * Main Goal is to match all cards with minimum moves as possible.
 * Game and Timer starts on first card clicked.
-* 2 flipped pairs make a move.
+* 2 flipped cards make a move.
+* Correctly paired stays displayed if not, hidden.
 
 ### Rating
 * With 12 moves or less = 5 Stars
