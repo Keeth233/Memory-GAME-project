@@ -177,6 +177,9 @@ restartGame.addEventListener("click", function() {
 
     //call RESET function
     reset();
+    
+    //shuffleCards
+    shuffle(icons);
 
     //reset all MATCHED Data and MOVES
     matchedCards = [];
