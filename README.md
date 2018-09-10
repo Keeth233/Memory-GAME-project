@@ -15,6 +15,9 @@ The Memory Card Game Project.
 ## Link To The MEMORY CARD GAME
 
 To play the Memory Card Game, click [here]( https://keeth233.github.io/Memory-GAME-project/)
+## External Content used
+* Font-Awesome
+
 
 Have FUN! :smiley:
 
